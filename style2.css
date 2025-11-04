@@ -1,0 +1,28 @@
+body{
+
+background-color: dodgerblue;
+
+}
+
+h1{
+color: whitesmoke;
+font-family: "Arial", sans-serif;
+
+}
+p{
+    color: yellow;
+    font-family: "Arial";
+}
+ul{
+color: whitesmoke;
+font-size: 150%;
+    p1 {
+        font-size: 100%;
+    }
+}
+
+tr{
+color: whitesmoke;
+    font-size: 160%;
+}
+
